@@ -63,6 +63,7 @@ Creates a shortcut of the file (Symbolic link)
 39. dig
 40.lsof(List of open files)
 41. netstat - monitor network connections
+ new word added
 
 
 Flavours of Linux
